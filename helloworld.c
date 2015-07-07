@@ -5,6 +5,6 @@
 main()
 {
     printf("Hello World");
-    printf("Hola El Mundo!")
+    printf("Hola Senores y El Mundo!")
 
 }
